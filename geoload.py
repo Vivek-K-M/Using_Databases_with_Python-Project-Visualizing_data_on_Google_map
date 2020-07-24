@@ -1,4 +1,4 @@
-#This is the main file to record the data and create a databaase for the same.
+#This is the main file to record the data and create a database for the same.
 #To add a location into the data go to the where.data file and write the institution name you want to visualize on map.
 #Then run this file to create a database for the same.
 # Run the geoload.py program. This program will read the input
